@@ -1,5 +1,6 @@
 # The Pocket Technical Writing List 🗂
-A small, but formidable list of technical writing resources for developers.
+A small but formidable list of technical writing resources for software developers.
+
 ---
 ## Courses and Other Resources 👨🏾‍💻
 - [Write the Docs](www.writethedocs.org)

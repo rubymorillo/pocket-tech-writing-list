@@ -10,6 +10,7 @@ A small but formidable list of technical writing resources for software develope
 - [Divio's documentation system](https://documentation.divio.com/)
 - [Google's Technical Writing Courses](https://developers.google.com/tech-writing)
 - [UC San Diego's Technical Communication I Course](https://extension.ucsd.edu/courses-and-programs/technical-communication-i)
+- [Society for Technical Communication Online Technical Writing Courses](https://www.stc.org/education/online-courses/)
 
 ## Books 📕
 - [_How to Make Sense of Any Mess_ by Abby Covert](https://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994)

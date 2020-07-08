@@ -21,6 +21,7 @@ A small but formidable list of technical writing resources for software develope
 - [Microsoft's Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Google's Developer Documentation Style Guide](https://developers.google.com/style)
 - [DigitalOcean's Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
+- [GitLab's Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html)
 
 ---
 List compiled by [Stephanie Morillo](www.stephaniemorillo.co/links).

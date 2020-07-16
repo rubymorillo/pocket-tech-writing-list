@@ -3,7 +3,7 @@ A small but formidable list of technical writing resources for software develope
 
 ---
 ## Courses and Other Resources 👨🏾‍💻
-- [Write the Docs](www.writethedocs.org)
+- [Write the Docs](https://www.writethedocs.org)
   - [WtD Learning Resources](https://www.writethedocs.org/about/learning-resources/)
   - [WtD Slack Community](https://www.writethedocs.org/slack/)
 - [How to Document APIs Guide](https://idratherbewriting.com/learnapidoc/)

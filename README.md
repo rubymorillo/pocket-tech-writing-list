@@ -24,4 +24,4 @@ A small but formidable list of technical writing resources for software develope
 - [GitLab's Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html)
 
 ---
-List compiled by [Stephanie Morillo](www.stephaniemorillo.co/links).
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links).

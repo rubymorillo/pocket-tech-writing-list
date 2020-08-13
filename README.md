@@ -12,6 +12,7 @@ A small but formidable list of technical writing resources for software develope
 - [UC San Diego's Technical Communication I Course](https://extension.ucsd.edu/courses-and-programs/technical-communication-i)
 - [UC San Diego's Writing Online Documentation Course](https://extension.ucsd.edu/courses-and-programs/writing-online-documentation)
 - [Society for Technical Communication Online Technical Writing Courses](https://www.stc.org/education/online-courses/)
+- [Sample Technical Writing Template by Bolaji Ayodeji](https://github.com/BolajiAyodeji/technical-writing-template)
 
 ## Books 📕
 - [_How to Make Sense of Any Mess_ by Abby Covert](https://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994)
@@ -26,7 +27,7 @@ A small but formidable list of technical writing resources for software develope
 - [GitLab's Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html)
 
 ## Paid Writing Opportunities😎
-- [Tech Community Writing Programs](https://github.com/malgamves/CommunityWriterPrograms)
+- [Tech Community Writing Programs compiled by Daniel Madalitso Phiri](https://github.com/malgamves/CommunityWriterPrograms)
 
 ---
 List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links).

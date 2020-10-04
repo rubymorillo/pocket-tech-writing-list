@@ -25,6 +25,7 @@ A small but formidable list of technical writing resources for software develope
 - [Google's Developer Documentation Style Guide](https://developers.google.com/style)
 - [DigitalOcean's Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 - [GitLab's Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html)
+- [RunDOC, a library to generate docs by Richard Schneeman](https://github.com/schneems/rundoc)
 
 ## Paid Writing Opportunities😎
 - [Tech Community Writing Programs compiled by Daniel Madalitso Phiri](https://github.com/malgamves/CommunityWriterPrograms)

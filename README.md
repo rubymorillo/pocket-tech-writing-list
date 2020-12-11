@@ -26,7 +26,7 @@ A small but formidable list of technical writing resources for software develope
 - [Google's Developer Documentation Style Guide](https://developers.google.com/style)
 - [DigitalOcean's Technical Writing Guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 - [GitLab's Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html)
-- [Checklist for Technical Writing][(http://emlab.utep.edu/pdfs/Checklist%20for%20Technical%20Writing.pdf)
+- [Checklist for Technical Writing (PDF)](http://emlab.utep.edu/pdfs/Checklist%20for%20Technical%20Writing.pdf)
 
 ## Paid Writing Opportunities😎
 - [Tech Community Writing Programs compiled by Daniel Madalitso Phiri](https://github.com/malgamves/CommunityWriterPrograms)

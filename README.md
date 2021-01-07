@@ -15,6 +15,10 @@ A small but formidable list of technical writing resources for software develope
 - [Sample Technical Writing Template by Bolaji Ayodeji](https://github.com/BolajiAyodeji/technical-writing-template)
 - [RunDOC, a library for generate docs by Richard Schneeman](https://github.com/schneems/rundoc)
 
+## Articles 📰
+- [A Brief Introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
+- [7 Pieces of Information to Include in Technical Blog Posts](https://www.stephaniemorillo.co/post/7-pieces-of-information-to-include-in-technical-blog-posts)
+
 ## Books 📕
 - [_How to Make Sense of Any Mess_ by Abby Covert](https://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994)
 - [_Information Architecture for the Web and Beyond_ by Louis Rosenfeld et. al.](https://www.amazon.com/dp/B015D78JV6/ref=cm_sw_r_tw_dp_U_x_VfYSEbV3F80K4)

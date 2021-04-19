@@ -14,6 +14,7 @@ A small but formidable list of technical writing resources for software develope
 - [Society for Technical Communication Online Technical Writing Courses](https://www.stc.org/education/online-courses/)
 - [Sample Technical Writing Template by Bolaji Ayodeji](https://github.com/BolajiAyodeji/technical-writing-template)
 - [RunDOC, a library for generate docs by Richard Schneeman](https://github.com/schneems/rundoc)
+- [Ritza's free Writing for Coders Intensive](https://ritza.co/writing-for-coders-coding-for-writers-course.html)
 
 ## Articles 📰
 - [A Brief Introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)

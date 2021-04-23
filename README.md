@@ -37,4 +37,4 @@ A small but formidable list of technical writing resources for software develope
 - [Tech Community Writing Programs compiled by Daniel Madalitso Phiri](https://github.com/malgamves/CommunityWriterPrograms)
 
 ---
-List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links).
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links). Found it useful? [Consider becoming a GitHub Sponsor!](https://www.github.com/sponsors/rubymorillo)

@@ -10,7 +10,6 @@ A small but formidable list of technical writing resources for software develope
 - [Divio's documentation system](https://documentation.divio.com/)
 - [Google's Technical Writing Courses](https://developers.google.com/tech-writing)
 - [UC San Diego's Technical Communication I Course](https://extension.ucsd.edu/courses-and-programs/technical-communication-i)
-- [UC San Diego's Writing Online Documentation Course](https://extension.ucsd.edu/courses-and-programs/writing-online-documentation)
 - [Society for Technical Communication Online Technical Writing Courses](https://www.stc.org/education/online-courses/)
 - [Sample Technical Writing Template by Bolaji Ayodeji](https://github.com/BolajiAyodeji/technical-writing-template)
 - [RunDOC, a library for generate docs by Richard Schneeman](https://github.com/schneems/rundoc)

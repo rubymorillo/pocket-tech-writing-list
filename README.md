@@ -25,6 +25,7 @@ A small but formidable list of technical writing resources for software develope
 - [_Technical Editing, 5th Edition_ by Carolyn D. Rude and Angela Eaton](https://www.amazon.com/Technical-Editing-Allyn-Seriesin-Communication/dp/0205786715/ref=pd_lpo_14_t_0/134-4344360-0879020?_encoding=UTF8&pd_rd_i=0205786715&pd_rd_r=41904240-3355-4fdb-b6da-60fd33075a91&pd_rd_w=4dINj&pd_rd_wg=pBam8&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=AT3FGPAN9H34TFK18QQT&psc=1&refRID=AT3FGPAN9H34TFK18QQT)
 
 ## Documentation Style Guides 📝
+- [README Checklist](https://github.com/ddbeck/readme-checklist/blob/main/checklist.md) by Daniel Beck
 - [Divio's documentation system](https://documentation.divio.com/)
 - [Microsoft's Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Google's Developer Documentation Style Guide](https://developers.google.com/style)

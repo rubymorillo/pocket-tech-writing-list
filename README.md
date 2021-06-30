@@ -31,7 +31,7 @@ A small but formidable list of technical writing resources for software develope
 ## Documentation Style Guides 📝
 - [README Checklist](https://github.com/ddbeck/readme-checklist/blob/main/checklist.md) by Daniel Beck
 - [MDN Web Docs Style Guide](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Writing_style_guide)
-- [Splunk Style GUide](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
+- [Splunk Style Guide](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
 - [Divio's documentation system](https://documentation.divio.com/)
 - [Microsoft's Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Google's Developer Documentation Style Guide](https://developers.google.com/style)

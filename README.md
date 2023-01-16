@@ -19,6 +19,8 @@ A small but formidable list of technical writing resources for software develope
 - [A Brief Introduction to Technical Writing](https://www.stephaniemorillo.co/post/a-brief-introduction-to-technical-writing)
 - [7 Pieces of Information to Include in Technical Blog Posts](https://www.stephaniemorillo.co/post/7-pieces-of-information-to-include-in-technical-blog-posts)
 - [4 ways to keep distractions out of screenshots](https://ddbeck.com/hide-distractions-in-screenshots/)
+- [11 Best Practices for Writing API Documentation](https://blog.treblle.com/11-best-practices-for-writing-api-documentation/)
+- [How to Get Started with Technical Writing](https://www.samjulien.com/how-to-get-started-with-technical-writing)
 
 ## Books 📕
 - [_How to Make Sense of Any Mess_ by Abby Covert](https://www.amazon.com/How-Make-Sense-Any-Mess/dp/1500615994)
